@@ -1,0 +1,1 @@
+So far I have not had any problems with the materials presented. I currently work as a firmware engineer using C++. I also have experience with python and bash script. Ruby is a little bit different from those languages but a lot of the concepts will probably be the same.

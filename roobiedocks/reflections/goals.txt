@@ -1,0 +1,1 @@
+My goal for this course is to get good knowledge of ruby and using those skills to get started with rails. I also would like to see if ruby would be a good language for linux command line scripts when compared with python and bash sript.
